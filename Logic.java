@@ -188,8 +188,6 @@ public class Logic {
             errorLine="";
         }
 
-
-        //Zoz
         //Try to make the address doesnt increase if the error != 0
         if(error != 0)
         {
